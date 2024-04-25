@@ -1,4 +1,4 @@
-👋 Hello, I'm [Ragesh Kailash]!
+👋 I'm [Ragesh Kailash]!
 
 🚀 I'm a passionate .NET developer with [0-1] years of experience, specializing in building robust and scalable web applications, APIs, and enterprise solutions.
 
